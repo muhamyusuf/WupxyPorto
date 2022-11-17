@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/WupxyPorto/static/css/main.acb3811b.css",
+    "main.js": "/WupxyPorto/static/js/main.d82cd40e.js",
+    "static/js/787.ccc61661.chunk.js": "/WupxyPorto/static/js/787.ccc61661.chunk.js",
+    "static/media/header-img.svg": "/WupxyPorto/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/CentraNo2-Bold.ttf": "/WupxyPorto/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/WupxyPorto/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/WupxyPorto/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/TodoApp.jpeg": "/WupxyPorto/static/media/TodoApp.b55b8fccead46b9f9491.jpeg",
+    "static/media/revicons.eot": "/WupxyPorto/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/WupxyPorto/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/WupxyPorto/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter2.svg": "/WupxyPorto/static/media/meter2.1b8f416eccd1ee162218b8528a1c5cdc.svg",
+    "static/media/meter1.svg": "/WupxyPorto/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
+    "static/media/meter3.svg": "/WupxyPorto/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
+    "static/media/nav-icon3.svg": "/WupxyPorto/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/WupxyPorto/index.html",
+    "static/media/nav-icon1.svg": "/WupxyPorto/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/nav-icon2.svg": "/WupxyPorto/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.acb3811b.css.map": "/WupxyPorto/static/css/main.acb3811b.css.map",
+    "main.d82cd40e.js.map": "/WupxyPorto/static/js/main.d82cd40e.js.map",
+    "787.ccc61661.chunk.js.map": "/WupxyPorto/static/js/787.ccc61661.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acb3811b.css",
+    "static/js/main.d82cd40e.js"
+  ]
+}
